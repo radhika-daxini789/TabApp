@@ -36,7 +36,7 @@
             "appId": "01a6cbe0-dd9f-413d-9e82-cf3f47e135d7",
             "tenantId": "ce79fa55-f492-462e-9e1f-3d8667023f7d",
             "authorityEndpointHost": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize",
-            "redirectUri": "http://localhost:3002",
+            "redirectUri": "https://tab-app-radhika-daxini789.vercel.app/",
             "msgraphEndpointHost": "https://graph.microsoft.com"
           }
         }
